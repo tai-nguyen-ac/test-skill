@@ -1,0 +1,375 @@
+[
+  {
+    "_id": 0,
+    "nation_id": 63,
+    "value": "afc-bournemouth",
+    "name": "AFC Bournemouth"
+  },
+  { "_id": 1, "nation_id": 63, "value": "arsenal", "name": "Arsenal" },
+  { "_id": 2, "nation_id": 63, "value": "aston-villa", "name": "Aston Villa" },
+  { "_id": 3, "nation_id": 63, "value": "brentford", "name": "Brentford" },
+  {
+    "_id": 4,
+    "nation_id": 63,
+    "value": "brighton-hove-albion",
+    "name": "Brighton & Hove Albion"
+  },
+  { "_id": 5, "nation_id": 63, "value": "chelsea", "name": "Chelsea" },
+  {
+    "_id": 6,
+    "nation_id": 63,
+    "value": "crystal-palace",
+    "name": "Crystal Palace"
+  },
+  { "_id": 7, "nation_id": 63, "value": "everton", "name": "Everton" },
+  { "_id": 8, "nation_id": 63, "value": "fulham", "name": "Fulham" },
+  {
+    "_id": 9,
+    "nation_id": 63,
+    "value": "leeds-united",
+    "name": "Leeds United"
+  },
+  {
+    "_id": 10,
+    "nation_id": 63,
+    "value": "leicester-city",
+    "name": "Leicester City"
+  },
+  { "_id": 11, "nation_id": 63, "value": "liverpool", "name": "Liverpool" },
+  {
+    "_id": 12,
+    "nation_id": 63,
+    "value": "manchester-city",
+    "name": "Manchester City"
+  },
+  {
+    "_id": 13,
+    "nation_id": 63,
+    "value": "manchester-united",
+    "name": "Manchester United"
+  },
+  {
+    "_id": 14,
+    "nation_id": 63,
+    "value": "newcastle-united",
+    "name": "Newcastle United"
+  },
+  {
+    "_id": 15,
+    "nation_id": 63,
+    "value": "nottingham-forest",
+    "name": "Nottingham Forest"
+  },
+  { "_id": 16, "nation_id": 63, "value": "southampton", "name": "Southampton" },
+  {
+    "_id": 17,
+    "nation_id": 63,
+    "value": "tottenham-hotspur",
+    "name": "Tottenham Hotspur"
+  },
+  {
+    "_id": 18,
+    "nation_id": 63,
+    "value": "west-ham-united",
+    "name": "West Ham United"
+  },
+  {
+    "_id": 19,
+    "nation_id": 63,
+    "value": "wolverhampton-wanderers",
+    "name": "Wolverhampton Wanderers"
+  },
+  { "_id": 20, "nation_id": 71, "value": "ac-ajaccio", "name": "AC Ajaccio" },
+  { "_id": 21, "nation_id": 71, "value": "aj-auxerre", "name": "AJ Auxerre" },
+  { "_id": 22, "nation_id": 71, "value": "angers-sco", "name": "Angers SCO" },
+  { "_id": 23, "nation_id": 71, "value": "as-monaco", "name": "AS Monaco" },
+  {
+    "_id": 24,
+    "nation_id": 71,
+    "value": "clermont-foot-63",
+    "name": "Clermont Foot 63"
+  },
+  {
+    "_id": 25,
+    "nation_id": 71,
+    "value": "estac-troyes",
+    "name": "ESTAC Troyes"
+  },
+  { "_id": 26, "nation_id": 71, "value": "fc-lorient", "name": "FC Lorient" },
+  { "_id": 27, "nation_id": 71, "value": "fc-nantes", "name": "FC Nantes" },
+  { "_id": 28, "nation_id": 71, "value": "losc-lille", "name": "LOSC Lille" },
+  {
+    "_id": 29,
+    "nation_id": 71,
+    "value": "montpellier-herault-sc",
+    "name": "Montpellier Hérault SC"
+  },
+  { "_id": 30, "nation_id": 71, "value": "ogc-nice", "name": "OGC Nice" },
+  {
+    "_id": 31,
+    "nation_id": 71,
+    "value": "olympique-de-marseille",
+    "name": "Olympique de Marseille"
+  },
+  {
+    "_id": 32,
+    "nation_id": 71,
+    "value": "olympique-lyonnais",
+    "name": "Olympique Lyonnais"
+  },
+  {
+    "_id": 33,
+    "nation_id": 71,
+    "value": "paris-saint-germain",
+    "name": "Paris Saint-Germain"
+  },
+  { "_id": 34, "nation_id": 71, "value": "rc-lens", "name": "RC Lens" },
+  {
+    "_id": 35,
+    "nation_id": 71,
+    "value": "rc-strasbourg-alsace",
+    "name": "RC Strasbourg Alsace"
+  },
+  {
+    "_id": 36,
+    "nation_id": 71,
+    "value": "stade-brestois-29",
+    "name": "Stade Brestois 29"
+  },
+  {
+    "_id": 37,
+    "nation_id": 71,
+    "value": "stade-de-reims",
+    "name": "Stade de Reims"
+  },
+  {
+    "_id": 38,
+    "nation_id": 71,
+    "value": "stade-rennais-fc",
+    "name": "Stade Rennais FC"
+  },
+  { "_id": 39, "nation_id": 71, "value": "toulouse-fc", "name": "Toulouse FC" },
+  { "_id": 40, "nation_id": 77, "value": null, "name": "▾ Đội" },
+  { "_id": 41, "nation_id": 77, "value": "1-fc-koln", "name": "1. FC Köln" },
+  {
+    "_id": 42,
+    "nation_id": 77,
+    "value": "1-fc-union-berlin",
+    "name": "1. FC Union Berlin"
+  },
+  {
+    "_id": 43,
+    "nation_id": 77,
+    "value": "1-fsv-mainz-05",
+    "name": "1. FSV Mainz 05"
+  },
+  {
+    "_id": 44,
+    "nation_id": 77,
+    "value": "bayer-04-leverkusen",
+    "name": "Bayer 04 Leverkusen"
+  },
+  {
+    "_id": 45,
+    "nation_id": 77,
+    "value": "borussia-dortmund",
+    "name": "Borussia Dortmund"
+  },
+  {
+    "_id": 46,
+    "nation_id": 77,
+    "value": "borussia-monchengladbach",
+    "name": "Borussia Mönchengladbach"
+  },
+  {
+    "_id": 47,
+    "nation_id": 77,
+    "value": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt"
+  },
+  { "_id": 48, "nation_id": 77, "value": "fc-augsburg", "name": "FC Augsburg" },
+  {
+    "_id": 49,
+    "nation_id": 77,
+    "value": "fc-bayern-munchen",
+    "name": "FC Bayern München"
+  },
+  {
+    "_id": 50,
+    "nation_id": 77,
+    "value": "fc-schalke-04",
+    "name": "FC Schalke 04"
+  },
+  {
+    "_id": 51,
+    "nation_id": 77,
+    "value": "hertha-berlin",
+    "name": "Hertha Berlin"
+  },
+  { "_id": 52, "nation_id": 77, "value": "rb-leipzig", "name": "RB Leipzig" },
+  {
+    "_id": 53,
+    "nation_id": 77,
+    "value": "sport-club-freiburg",
+    "name": "Sport-Club Freiburg"
+  },
+  {
+    "_id": 54,
+    "nation_id": 77,
+    "value": "sv-werder-bremen",
+    "name": "SV Werder Bremen"
+  },
+  {
+    "_id": 55,
+    "nation_id": 77,
+    "value": "tsg-hoffenheim",
+    "name": "TSG Hoffenheim"
+  },
+  {
+    "_id": 56,
+    "nation_id": 77,
+    "value": "vfb-stuttgart",
+    "name": "VfB Stuttgart"
+  },
+  {
+    "_id": 57,
+    "nation_id": 77,
+    "value": "vfl-bochum-1848",
+    "name": "VfL Bochum 1848"
+  },
+  {
+    "_id": 58,
+    "nation_id": 77,
+    "value": "vfl-wolfsburg",
+    "name": "VfL Wolfsburg"
+  },
+  {
+    "_id": 59,
+    "nation_id": 101,
+    "value": "cremonese-ratings",
+    "name": "Cremonese  Ratings"
+  },
+  { "_id": 60, "nation_id": 101, "value": "ac-monza", "name": "AC Monza" },
+  { "_id": 61, "nation_id": 101, "value": "atalanta", "name": "Atalanta" },
+  {
+    "_id": 62,
+    "nation_id": 101,
+    "value": "bergamo-calcio",
+    "name": "Bergamo Calcio"
+  },
+  { "_id": 63, "nation_id": 101, "value": "bologna", "name": "Bologna" },
+  { "_id": 64, "nation_id": 101, "value": "empoli", "name": "Empoli" },
+  { "_id": 65, "nation_id": 101, "value": "fiorentina", "name": "Fiorentina" },
+  {
+    "_id": 66,
+    "nation_id": 101,
+    "value": "hellas-verona",
+    "name": "Hellas Verona"
+  },
+  { "_id": 67, "nation_id": 101, "value": "inter", "name": "Inter" },
+  { "_id": 68, "nation_id": 101, "value": "juventus", "name": "Juventus" },
+  { "_id": 69, "nation_id": 101, "value": "latium", "name": "Latium" },
+  { "_id": 70, "nation_id": 101, "value": "lazio", "name": "Lazio" },
+  { "_id": 71, "nation_id": 101, "value": "lecce", "name": "Lecce" },
+  { "_id": 72, "nation_id": 101, "value": "milan", "name": "Milan" },
+  { "_id": 73, "nation_id": 101, "value": "napoli", "name": "Napoli" },
+  {
+    "_id": 74,
+    "nation_id": 101,
+    "value": "napoli-ratings",
+    "name": "Napoli  Ratings"
+  },
+  {
+    "_id": 75,
+    "nation_id": 101,
+    "value": "piemonte-calcio",
+    "name": "Piemonte Calcio"
+  },
+  { "_id": 76, "nation_id": 101, "value": "roma-fc", "name": "Roma FC" },
+  {
+    "_id": 77,
+    "nation_id": 101,
+    "value": "salernitana",
+    "name": "Salernitana"
+  },
+  { "_id": 78, "nation_id": 101, "value": "sampdoria", "name": "Sampdoria" },
+  { "_id": 79, "nation_id": 101, "value": "sassuolo", "name": "Sassuolo" },
+  { "_id": 80, "nation_id": 101, "value": "spezia", "name": "Spezia" },
+  { "_id": 81, "nation_id": 101, "value": "torino", "name": "Torino" },
+  { "_id": 82, "nation_id": 101, "value": "udinese", "name": "Udinese" },
+  {
+    "_id": 83,
+    "nation_id": 179,
+    "value": "athletic-club",
+    "name": "Athletic Club"
+  },
+  {
+    "_id": 84,
+    "nation_id": 179,
+    "value": "atletico-de-madrid",
+    "name": "Atlético de Madrid"
+  },
+  { "_id": 85, "nation_id": 179, "value": "ca-osasuna", "name": "CA Osasuna" },
+  { "_id": 86, "nation_id": 179, "value": "cadiz-cf", "name": "Cádiz CF" },
+  { "_id": 87, "nation_id": 179, "value": "elche-cf", "name": "Elche CF" },
+  {
+    "_id": 88,
+    "nation_id": 179,
+    "value": "fc-barcelona",
+    "name": "FC Barcelona"
+  },
+  { "_id": 89, "nation_id": 179, "value": "getafe-cf", "name": "Getafe CF" },
+  { "_id": 90, "nation_id": 179, "value": "girona-fc", "name": "Girona FC" },
+  {
+    "_id": 91,
+    "nation_id": 179,
+    "value": "r-valladolid-cf",
+    "name": "R. Valladolid CF"
+  },
+  {
+    "_id": 92,
+    "nation_id": 179,
+    "value": "rayo-vallecano",
+    "name": "Rayo Vallecano"
+  },
+  { "_id": 93, "nation_id": 179, "value": "rc-celta", "name": "RC Celta" },
+  {
+    "_id": 94,
+    "nation_id": 179,
+    "value": "rcd-espanyol-de-barcelona",
+    "name": "RCD Espanyol de Barcelona"
+  },
+  {
+    "_id": 95,
+    "nation_id": 179,
+    "value": "rcd-mallorca",
+    "name": "RCD Mallorca"
+  },
+  { "_id": 96, "nation_id": 179, "value": "real-betis", "name": "Real Betis" },
+  {
+    "_id": 97,
+    "nation_id": 179,
+    "value": "real-madrid",
+    "name": "Real Madrid"
+  },
+  {
+    "_id": 98,
+    "nation_id": 179,
+    "value": "real-sociedad",
+    "name": "Real Sociedad"
+  },
+  { "_id": 99, "nation_id": 179, "value": "sevilla-fc", "name": "Sevilla FC" },
+  { "_id": 100, "nation_id": 179, "value": "ud-almeria", "name": "UD Almería" },
+  {
+    "_id": 101,
+    "nation_id": 179,
+    "value": "valencia-cf",
+    "name": "Valencia CF"
+  },
+  {
+    "_id": 102,
+    "nation_id": 179,
+    "value": "villarreal-cf",
+    "name": "Villarreal CF"
+  }
+]
